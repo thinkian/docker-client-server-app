@@ -5,3 +5,12 @@ Example application built with Docker Compose
 - Server (Node.js)
 - Proxy (NGINX)
 
+## Getting Started
+
+Run the following command in your Terminal:
+
+```
+docker compose up -d
+```
+
+Visit `http://localhost:8080` in your browser.
